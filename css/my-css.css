@@ -1,0 +1,35 @@
+.toleft{
+    float:left;
+    width:49%;
+}
+.toright{
+    float:left;
+    width:49%;
+}
+.post-preview img{
+    width: 100%;
+}
+.clearfix:after{
+    content:".";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden}
+
+.introduction1{
+    background-color:#ee7777;
+    margin-top:108px;
+    padding-left:60px;
+}
+.introduction2{
+    background-color:#dd9e9e;
+    margin-top:108px;
+    padding-left:60px;
+
+}
+.introduction3{
+    background-color:#ee7777;
+    margin-top:108px;
+    padding-left:60px;
+
+}
